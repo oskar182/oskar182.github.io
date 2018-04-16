@@ -1,0 +1,29 @@
+﻿body{
+	background: #005883;
+}
+
+.container {
+	background: #FFFFFF;
+	margin: 5px 5%;
+}
+
+div.header {
+	background: #FFFFFF;
+	margin: 5px 5%;
+	height: 75px;
+	/*width: 1em;
+	padding: 3px;*/
+}
+
+.logo{
+	height: 50px;
+	float: left;
+	padding: 5px 20px;
+}
+
+.logo-unad{
+	height: 50px;
+	float: right;
+	padding: 5px 20px;
+}
+
